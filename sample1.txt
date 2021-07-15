@@ -1,1 +1,3 @@
-Hi! This is the first file.
+Hi! this is the first file.
+
+Adding 1 line.
